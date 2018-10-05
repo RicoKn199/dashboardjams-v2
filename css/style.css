@@ -1,0 +1,167 @@
+.container {
+  background-color: #F8F9FD;
+}
+.navbar-default {
+  background-color: white;
+  border-color: white;
+}
+.table-wrapper-scroll-y {
+  display: block;
+  max-height: 200px;
+  overflow-y: auto;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+#footer{
+  margin-top: 30px;
+    height:50px;
+    line-height:50px;
+    background:#333;
+    color:#fff;
+    /* position:absolute; */
+    width:100%; /*biar memenuhi layar*/
+    text-align: center;
+}
+.box{
+				width:255px;
+				height:100px;
+				background:white;
+				display: inline-block;
+				margin-left: 0px;
+        margin-bottom: 20px;
+        display: block;
+			}
+.box i {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.box p {
+  margin-left: 125px;
+  margin-bottom: auto;
+  font-size: 15px;
+  position: absolute;
+}
+.table-responsive tr td{
+  text-align: center;
+}
+#box1  {
+  width: 1110px;
+  margin-left: 15px;
+  height: 193px;
+}
+#tbl {
+  /* margin-bottom: 100%; */
+  position: absolute;
+  height: 50px;
+  margin-left: 10px;
+  vertical-align: text-top;
+}
+#tbl1 {
+  margin-top: 35px;
+  width: 96%;
+  height: 60%;
+  margin-left: 10px;
+  font-size: 12px;
+  font-family: sans-serif;
+}
+#accordion {
+  width: 1110px;
+  margin-left: 0px;
+
+}
+#myaccordian {
+  width: 1110px;
+
+}
+#btn1 {
+  margin-top: 20px;
+  border-color: #1893FF;
+  color: #1893FF;
+}
+#btn2 {
+  margin-top: 20px;
+  background-color: #1893FF;
+  border-color: #1893FF;
+}
+#tblf {
+  width: 90%;
+  margin-left: 20px;
+}
+#panel-f {
+  margin-top: 20px;
+  margin-left: 0px;
+
+}
+
+
+.navbar-nav{
+  min-height: 33px; !important;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.navbar-nav > li > a, .navbar-brand{
+  padding-top: 13px; !important;
+  padding-bottom: 0; !important;
+  height: 33px;
+}
+.navbar-default {
+  background-color: #ffff;
+  border-color: #8e44ad;
+}
+/* breadcrumb */
+.breadcrumb{
+  background: #d0dee3;
+  color: #3333;
+}
+
+.navbar-default {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+.navbar-default .navbar-brand {
+  color: #040404;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #53b3ff;
+}
+.navbar-default .navbar-text {
+  color: #040404;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #040404;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #53b3ff;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #53b3ff;
+  background-color: #ffffff;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #53b3ff;
+  background-color: #ffffff;
+}
+.navbar-default .navbar-toggle {
+  border-color: #ffffff;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #ffffff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #040404;
+}
+.navbar-default .navbar-link {
+  color: #ffff;
+}
+.navbar-default .navbar-link:hover {
+  color: #ffff;
